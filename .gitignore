@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+allure-results/
+allure-report/
+test-results/
+.playwright/
+*.log
+.pytest_cache/
+.idea/
+.vscode/launch.json
